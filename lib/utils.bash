@@ -2,7 +2,7 @@
 
 set -euo pipefail
 
-GH_REPO="https://github.com/vladlosev/fouskoti"
+GH_REPO="https://github.com/sageailabs/fouskoti"
 TOOL_NAME="fouskoti"
 TOOL_TEST="fouskoti version"
 
