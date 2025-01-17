@@ -1,8 +1,8 @@
 <div align="center">
 
-# asdf-fouskoti [![Build](https://github.com/vladlosev/asdf-fouskoti/actions/workflows/build.yml/badge.svg)](https://github.com/vladlosev/asdf-fouskoti/actions/workflows/build.yml) [![Lint](https://github.com/vladlosev/asdf-fouskoti/actions/workflows/lint.yml/badge.svg)](https://github.com/vladlosev/asdf-fouskoti/actions/workflows/lint.yml)
+# asdf-fouskoti [![Build](https://github.com/sageailabs/asdf-fouskoti/actions/workflows/build.yml/badge.svg)](https://github.com/sageailabs/asdf-fouskoti/actions/workflows/build.yml) [![Lint](https://github.com/sageailabs/asdf-fouskoti/actions/workflows/lint.yml/badge.svg)](https://github.com/sageailabs/asdf-fouskoti/actions/workflows/lint.yml)
 
-[fouskoti](https://github.com/vladlosev/fouskoti) plugin for the [asdf version manager](https://asdf-vm.com).
+[fouskoti](https://github.com/sageailabs/fouskoti) plugin for the [asdf version manager](https://asdf-vm.com).
 
 </div>
 
@@ -24,7 +24,7 @@ Plugin:
 ```shell
 asdf plugin add fouskoti
 # or
-asdf plugin add fouskoti https://github.com/vladlosev/asdf-fouskoti.git
+asdf plugin add fouskoti https://github.com/sageailabs/asdf-fouskoti.git
 ```
 
 fouskoti:
@@ -50,8 +50,8 @@ install & manage versions.
 
 Contributions of any kind welcome! See the [contributing guide](contributing.md).
 
-[Thanks goes to these contributors](https://github.com/vladlosev/asdf-fouskoti/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/sageailabs/asdf-fouskoti/graphs/contributors)!
 
 # License
 
-See [LICENSE](LICENSE) © [Vlad Losev](https://github.com/vladlosev/)
+See [LICENSE](LICENSE) © The Sage Group plc or its licensors.
