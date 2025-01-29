@@ -40,6 +40,9 @@ download_release() {
 
 	os_name=$(uname)
 	platform=$(uname -m)
+	case "$platform" in
+		aarch64) platform=arm64 ;;
+	esac
 	url="$GH_REPO/releases/download/v${version}/${TOOL_NAME}_${os_name}_${platform}.tar.gz"
 
 	echo "* Downloading $TOOL_NAME release $version..."
