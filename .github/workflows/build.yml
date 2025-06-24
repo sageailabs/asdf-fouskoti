@@ -25,3 +25,4 @@ jobs:
         with:
           command: fouskoti version
           gitref: ${{ github.head_ref }}
+          version: 0.7.4
